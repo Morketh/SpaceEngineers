@@ -1,0 +1,6 @@
+mdk.local.ini
+out/*
+bin/
+obj/
+MDK
+*.debug.cs
