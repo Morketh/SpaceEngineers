@@ -216,7 +216,7 @@ namespace UNDF_ATC
         // ===== UTILS =====
         string UNDF_FormatVector(Vector3D v)
         {
-            return v.X + "," + v.Y + "," + v.Z;
+            return v.ToString();
         }
     }
 }
